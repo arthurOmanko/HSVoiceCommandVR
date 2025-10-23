@@ -15,9 +15,9 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - For using Voice Commands by real voices, you should install at least one Speech recognition Language Pack in Windows.
 - Which Speech recognition Language Packs you have already installed or what you have set as \<Locale\> item are able to be checked via ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt.
 - If you dont install Speech recognition Language Pack at all, you can use only voice pannel on GUI (not real voices).
-- Each Language Pack dictionary will be created automatically at first if not existing at all. 
+- Each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.) will be created automatically at first if not existing at all in ${GameFolder}\UserData\dictionaries\. 
 - On each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.), you can add/remove/change your favorite voice pronunciations as a row for each voice command.
-- Each voice pronunciation for each voice command on each Language Pack dictionary is distinguished by prefixes (or prefix word) from other voice pronunciations. Plese don't add/change voice pronunciation with same prefixs (or prefix word) as others.  
+- Each voice pronunciation for each voice command in each Language Pack dictionary is distinguished by prefixes (or prefix word) from other voice pronunciations. Plese don't add/change voice pronunciation with same prefixs (or prefix word) as others.  
 
 ## [Requirements]
 - Game updated with the last patch and DLC installed
@@ -37,10 +37,10 @@ Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as 
 - General setting:  
   -- ${GameFolder}\vr_settings_for_IBL.xml   --- each settings for Speech Recognition  
 - Dictionaries:  
-  -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt
+  -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt  
        --- Result of checking already installed Speech recognition Language Packs and used Language Pack  
-  -- ${GameFolder}\UserData\dictionaries\en-US.txt
-       --- voice commands dictionaries for en-US Language Pack (default)  
+  -- ${GameFolder}\UserData\dictionaries\en-US.txt  
+       --- voice commands dictionary for en-US Language Pack (default)  
   
 
 ## Voice commands and pronunciations
