@@ -13,8 +13,8 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 
 **Caution!** 
 - For using Voice Commands by real voices, you should install at least one Speech recognition Language Pack (having recognition engine) in Windows and enable microphone function of your PC.
-- For installing Speech recognition Language Pack in Windows,  
-please refer to [How To Add Language On Windows 11 [Tutorial] https://www.youtube.com/watch?v=r8LBqPb5PXk]. 
+- For installing Speech recognition Language Pack in Windows, please refer to  
+[How To Add Language On Windows 11 [Tutorial] https://www.youtube.com/watch?v=r8LBqPb5PXk]. 
 - Which Speech recognition Language Packs you have already installed or what you have set as \<Locale\> item are able to be checked via ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt.
 - If you dont install Speech recognition Language Pack at all, you can use only voice pannel on GUI (not real voices).
 - Each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.) will be created automatically at first if not existing at all in ${GameFolder}\UserData\dictionaries\\. 
