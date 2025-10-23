@@ -26,8 +26,8 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - At least one Speech recognition Language Pack installed already in Windows.
 
 ## [Uninstall]
-On $${GameFolder}\vr_settings_for_IBL.xml, set "false" at \<SpeechRecognition\> item.
-Or remove some installed DLL in ($${GameFolder}\Plugins\). Ones to remove are as below,  
+On ${GameFolder}/vr_settings_for_IBL.xml, set "false" at \<SpeechRecognition\> item.
+Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as below,  
 - HSVoiceCommandVR.dll
 - VR/SpeechServer.dll
 - VR/SpeechTransport.dll
@@ -43,6 +43,7 @@ Or remove some installed DLL in ($${GameFolder}\Plugins\). Ones to remove are as
 
 ## Voice commands and pronunciations
 List below is from en-US.txt (default). On your indicated Speech recognition Language Pack, your favorite pronunciations can be added/removed/changed as a row.
+Speech Recognition engine distinguishes each pronunciation by prefixes (or prefix word).
 
 | Voice Command        | Pronunciations       | Explanation |
 | ----------- | ------------------- | -----|
