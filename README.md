@@ -26,7 +26,7 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - At least one Speech recognition Language Pack installed already in Windows.
 
 ## [Uninstall]
-On ${GameFolder}\vr_settings_for_IBL.xml, set "false" at \<SpeechRecognition\> item.
+On \${GameFolder}\vr_settings_for_IBL.xml, set "false" at \<SpeechRecognition\> item.
 Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as below,  
 - HSVoiceCommandVR.dll
 - VR/SpeechServer.dll
