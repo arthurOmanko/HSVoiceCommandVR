@@ -39,7 +39,7 @@ Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as 
 - General setting:  
   -- ${GameFolder}\vr_settings_for_IBL.xml   --- each settings for Speech Recognition  
 - Dictionaries:  
-  -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt     --- Result of checking already installed Speech recognition Language Packs and used Language Pack  
+  -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt     --- result of checking already installed Speech recognition Language Packs and used Language Pack  
   -- ${GameFolder}\UserData\dictionaries\en-US.txt    --- voice commands dictionary for en-US Language Pack (default)  
 
 
