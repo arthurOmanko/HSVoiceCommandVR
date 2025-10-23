@@ -1,7 +1,7 @@
 # HSVoiceCommandVR
 
 
-This mod is for incorporating many Voice Commands in MainGame/StudioNEO. (some functions are restricted in MainGame)
+This mod is for incorporating many Voice Commands in MainGame/StudioNEO (some functions are restricted in MainGame). 
 Many actions, face/hand/body expressions or operations get able to be invoked by real voices (or voice pannel on GUI).
 
 
@@ -16,7 +16,8 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - Which Speech recognition Language Packs you have already installed or what you have set as \<Locale\> item are able to be checked via ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt.
 - If you dont install Speech recognition Language Pack at all, you can use only voice pannel on GUI (not real voices).
 - Each Language Pack dictionary will be created automatically at first if not existing at all. 
-- On each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.), you can add/remove/change your favorite voice pronunciations as a row. 
+- On each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.), you can add/remove/change your favorite voice pronunciations as a row for each voice command.
+- Each voice pronunciation for each voice command on each Language Pack dictionary is distinguished by prefixes (or prefix word). Plese don't add/change voice pronunciation with same prefixs (or prefix word) as others.  
 
 ## [Requirements]
 - Game updated with the last patch and DLC installed
@@ -25,8 +26,8 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - At least one Speech recognition Language Pack installed already in Windows.
 
 ## [Uninstall]
-On ${GameFolder}/vr_settings_for_IBL.xml, set "false" at <SpeechRecognition> item.
-Or remove some installed DLL in (${GameFolder}/Plugins/). Ones to remove are as below,  
+On ${GameFolder}\vr_settings_for_IBL.xml, set "false" at \<SpeechRecognition\> item.
+Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as below,  
 - HSVoiceCommandVR.dll
 - VR/SpeechServer.dll
 - VR/SpeechTransport.dll
