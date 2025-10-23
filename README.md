@@ -33,9 +33,6 @@ Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as 
 - VR/SpeechTransport.dll
 - VR/NAudio.dll
   
-After it, if you want previous VR environment, for example, from VRmod by Eusth, install Eusth's VRmod Tool and rewrite some data by it. VR environment and related data by Eusth's VRmod can come back. 
-
-
 ## [Setting files]
 - General setting:  
   -- ${GameFolder}\vr_settings_for_IBL.xml   --- each settings for Speech Recognition  
@@ -44,12 +41,11 @@ After it, if you want previous VR environment, for example, from VRmod by Eusth,
   -- ${GameFolder}\UserData\dictionaries\en-US.txt  --- voice commands dictionaries for en-US Language Pack (default)  
   
 
-## Modes & Controls
+## Voice commands and pronunciations
+Below list is from en-US.txt (default).
 
-HoneySelectVR comes in two *modes*:
-
-| Mode        | Description         |
-| ----------- | ------------------- |
+| Voice Command        | Pronunciations       | Explanation |
+| ----------- | ------------------- | -----|
 | Seated      | This mode lets you play the game with a mouse, keyboard, or gamepad.<br />The controls are essentially the same as in the main game. The screen is presented on a big monitor in front of you. |
 | Standing    | *Default mode.* As soon as tracked controllers are registered by the game, it switches into *standing mode*, also called *room scale mode*. In this mode, you can freely move around and use your Vive or Touch controllers to stuff. |
 
