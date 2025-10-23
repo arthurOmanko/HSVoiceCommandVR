@@ -39,10 +39,12 @@ Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as 
 - Dictionaries:  
   -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt     --- Result of checking already installed Speech recognition Language Packs and used Language Pack  
   -- ${GameFolder}\UserData\dictionaries\en-US.txt    --- voice commands dictionary for en-US Language Pack (default)  
-  
-#### UI/UX abstract on Menu
+
+
+#### UI/UX abstract on HSVoiceCommandVR
 Tag      |  Move   | 
 ----     | ------  | 
+only one hand needed
 <kbd>menu + holding</kbd> | apply indicated action for all charas in current scene
 
 
