@@ -40,6 +40,12 @@ Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as 
   -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt     --- Result of checking already installed Speech recognition Language Packs and used Language Pack  
   -- ${GameFolder}\UserData\dictionaries\en-US.txt    --- voice commands dictionary for en-US Language Pack (default)  
   
+#### UI/UX abstract on Menu
+Tag      |  Move   | 
+----     | ------  | 
+<kbd>menu + holding</kbd> | apply indicated action for all charas in current scene
+
+
 
 ## Voice commands and pronunciations
 List below is from en-US.txt (default). On your indicated Speech recognition Language Pack, your favorite pronunciations can be added/removed/changed as a row.
