@@ -12,7 +12,7 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 4. Enjoy super high quality on VR!
 
 **Caution!** 
-- For using Voice Commands by real voices, you should install at least one Speech recognition Language Pack in Windows.
+- For using Voice Commands by real voices, you should install at least one Speech recognition Language Pack in Windows and enable microphone function of your PC.
 - Which Speech recognition Language Packs you have already installed or what you have set as \<Locale\> item are able to be checked via ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt.
 - If you dont install Speech recognition Language Pack at all, you can use only voice pannel on GUI (not real voices).
 - Each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.) will be created automatically at first if not existing at all in ${GameFolder}\UserData\dictionaries\\. 
