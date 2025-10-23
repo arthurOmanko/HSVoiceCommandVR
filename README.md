@@ -7,7 +7,7 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 
 ## [Installation]
 1. Install HoneySelect VRmod with LRE & IBL (full pack) version 1.7 or more.
-2. On ${GameFolder}/vr_settings_for_IBL.xml, set "true" at \<SpeechRecognition\> item and already installed appropriate Language Pack name at <Locale> item (for example, en-US, ja-JP etc.).
+2. On ${GameFolder}/vr_settings_for_IBL.xml, set "true" at \<SpeechRecognition\> item and already installed appropriate Language Pack name at \<Locale\> item (for example, en-US, ja-JP etc.).
 3. Run (HoneySelect|StudioNEO)_(64|32)_for_VR_with_IBL.
 4. Enjoy super high quality on VR!
 
@@ -35,10 +35,10 @@ After it, if you want previous VR environment, for example, from VRmod by Eusth,
 
 ## [Setting files]
 - General setting:  
-  -- ${GameFolder}\vr_settings_for_IBL.xml   --- each settings for Speech Recognition
+  -- ${GameFolder}\vr_settings_for_IBL.xml   --- each settings for Speech Recognition  
 - Dictionaries:  
-  -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt  --- Result of checking already installed Speech recognition Language Packs and used Language Pack
-  -- ${GameFolder}\UserData\dictionaries\en-US.txt  --- voice commands dictionaries for en-US Language Pack (default)
+  -- ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt  --- Result of checking already installed Speech recognition Language Packs and used Language Pack  
+  -- ${GameFolder}\UserData\dictionaries\en-US.txt  --- voice commands dictionaries for en-US Language Pack (default)  
   
 
 ## Modes & Controls
