@@ -12,7 +12,7 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 4. Enjoy super high quality on VR!
 
 **Caution!** 
-- For using Voice Commands by real voices, you should install at least one Speech recognition Language Pack in Windows and enable microphone function of your PC.
+- For using Voice Commands by real voices, you should install at least one Speech recognition Language Pack (having recognition engine) in Windows and enable microphone function of your PC.
 - For installing Speech recognition Language Pack in Windows,  
 please refer to [How To Add Language On Windows 11 [Tutorial] https://www.youtube.com/watch?v=r8LBqPb5PXk]. 
 - Which Speech recognition Language Packs you have already installed or what you have set as \<Locale\> item are able to be checked via ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt.
