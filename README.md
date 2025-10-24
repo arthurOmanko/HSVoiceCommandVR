@@ -62,42 +62,42 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 
 | Voice Command        | Pronunciations       | Explanation |
 | ----------- | ------------------- | -----|
-/// Move ///
-|ComeOnWalk| come on walk |  Come walking up to me  |
-|ComeOnRun | come on run   |    Come running up to me|            
-|FrontOfMe| front of me|        Come in front of me       |
-|CloseToMe|  close to me      |Come just close to me     |
-|NextToMe|   next to me      |Come next to me           |
-|FollowMe|   follow me      |Follow me                 |
-/// Sex ///
-|ComeOnKiss| come on kiss |     Come and Kiss             |
-|SexNormal|  sex normal |      Come and Normal Sex       |
-|SexBack  |  sex back |      Come and Back Sex      |
-|OralSex   | oral sex |      Come and Oral Sex         |
-|Cowgirl    |  cowgirl |    Come and Cowgirl Sex      |
-|Handjob     |   ? |  Come and Handjob Sex      |
-|BreastSex    |  breast sex | Come and Breast Sex       |
-|Masturbation  |  masturbation | Masturbation              |
-|TwoMenSex     |  two men sex | Two Men Sex               |
-|TwoWomenSex     | two women sex | Two Women Sex             |
-|Shower           | shower | Shower                    |
-|Toilet           | toilet | Toilet                    |
-|VariousSex       | various sex | Various Sex               |
-|SpeedNormal      | speed normal | Animation Speed Normal    |
-|SpeedZero        | speed zero | Animation Speed Zero      |
-|SpeedMax         | speed max | Animation Speed Max       |
-|SpeedUp          | speed up | Animation Speed Up        |
-|SpeedDown        | speed down | Animation Speed Down      |
-|PatternNormal    | pattern normal | Animation Pattern Normal          |
-|PatternMinus     | pattern minus | Animation Pattern value Minus One   |
-|PatternPlus     | pattern plus | Animation Pattern value Plus One    |
-|PatternUp        | pattern up | Animation Pattern value Up          |
-|PatternDown      | pattern down | Animation Pattern value Down        |
-|CategoryUp       | category up |  Motion: Category Number Up          |
-|CategoryDown     | category down |Motion: Category Number Down        |
-|AnimationUp      | animation up | Motion: Animation Number Up         |
-|AnimationDown    | animation down |Motion: Animation Number Down       |
-/// Look ///
+\< Move \>
+|ComeOnWalk| come on walk  | Come walking up to me  |
+|ComeOnRun | come on run   | Come running up to me  |            
+|FrontOfMe | front of me   | Come in front of me    |
+|CloseToMe | close to me   | Come just close to me  |
+|NextToMe  | next to me    | Come next to me        |
+|FollowMe  | follow me     | Follow me              |
+\< Sex \>
+|ComeOnKiss| come on kiss |  Come and Kiss             |
+|SexNormal | sex normal   |  Come and Normal Sex       |
+|SexBack   | sex back     |  Come and Back Sex         |
+|OralSex   | oral sex     |  Come and Oral Sex         |
+|Cowgirl   | cowgirl      |  Come and Cowgirl Sex      |
+|Handjob   | handjob      |  Come and Handjob Sex      |
+|BreastSex | breast sex   | Come and Breast Sex        |
+|Masturbation  | masturbation  | Masturbation              |
+|TwoMenSex     | two men sex   | Two Men Sex               |
+|TwoWomenSex   | two women sex | Two Women Sex             |
+|Shower        | shower        | Shower                    |
+|Toilet        | toilet        | Toilet                    |
+|VariousSex    | various sex   | Various Sex               |
+|SpeedNormal      | speed normal   | Animation Speed Normal              |
+|SpeedZero        | speed zero     | Animation Speed Zero                |
+|SpeedMax         | speed max      | Animation Speed Max                 |
+|SpeedUp          | speed up       | Animation Speed Up                  |
+|SpeedDown        | speed down     | Animation Speed Down                |
+|PatternNormal    | pattern normal | Animation Pattern Normal            |
+|PatternMinus     | pattern minus  | Animation Pattern value Minus One   |
+|PatternPlus      | pattern plus   | Animation Pattern value Plus One    |
+|PatternUp        | pattern up     | Animation Pattern value Up          |
+|PatternDown      | pattern down   | Animation Pattern value Down        |
+|CategoryUp       | category up    | Motion: Category Number Up          |
+|CategoryDown     | category down  | Motion: Category Number Down        |
+|AnimationUp      | animation up   | Motion: Animation Number Up         |
+|AnimationDown    | animation down | Motion: Animation Number Down       |
+\< Look \>
             {"LookStraight",     "Eye & Neck straight"                 },
             {"LookAtMe",         "Eye & Neck to me"                    },
             {"LookNeckAtMe",     "Only Neck to me"                     },
