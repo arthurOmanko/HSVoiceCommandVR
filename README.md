@@ -22,6 +22,8 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 ![Image](https://github.com/user-attachments/assets/911bbd4d-5fc9-44f8-ad6d-4075795bbc81)  
 
 - Each voice pronunciation for each voice command in each Language Pack dictionary is distinguished by prefixes (or prefix word) from other voice pronunciations. Plese don't add/change voice pronunciation with same prefixs (or prefix word) as others.  
+For example, if you register "look" for one voice command and "look at me" for other voice command then you pronounce "look at me", both are invoked.  
+Or as another example, if you register "walk very near" for one voice command and "walk very far" for other voice command then you pronounce "walk very far", only voice command of "walk very far" is invoked so this OK.  
 
 ## [Requirements]
 - Game updated with the last patch and DLC installed
