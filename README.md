@@ -98,50 +98,50 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 |AnimationUp      | animation up   | Motion: Animation Number Up         |
 |AnimationDown    | animation down | Motion: Animation Number Down       |
 \< Look \>
-            {"LookStraight",     "Eye & Neck straight"                 },
-            {"LookAtMe",         "Eye & Neck to me"                    },
-            {"LookNeckAtMe",     "Only Neck to me"                     },
-            {"LookAnime",        "Only Neck Anime"                     },
-            {"LookFix",          "Eye & Neck fix"                      },
-            {"LookNeckFix",      "Only Neck fix"                       },
-            {"LookEyeFix",       "Only Eye fix"                        },
-            {"LookAway",         "Only Eye look away"                  },
-            {"LookManipulate",   "Only Eye Manipulation"               },
-            /// Face            
-            {"FaceNormal",       "Eye & Mouth default(0)"              },
-            {"EyeUp",            "Only Eye Number Up"                  },
-            {"EyeDown",          "Only Eye Number Down"                },
-            {"EyeOpen",          "Only Eye Opent"                      },
-            {"EyeClose",         "Only Eye Close"                      },
-            {"EyeHalf",          "Only Eye Half"                       },
-            {"MouthUp",          "Mouth Number Up"                     },
-            {"MouthDown",        "Mouth Number Down"                   },
-            {"MouthOpen",        "Mouth Open"                          },
-            {"MouthClose",       "Mouth Close"                         },
-            {"MouthHalf",        "Mouth Half"                          },
-            {"Kiss",             "Eye & Mouth Kiss"                    },
-            {"Tongue",           "Eye & Mouth Tongue"                  },
-            /// Hand            
-            {"HandNormal",       "Both Hand default(0)"                },
-            {"HandBothUp",       "Both Hand Number Up"                 },
-            {"HandBothDown",     "Both Hand Number Down"               },
-            {"HandLeftUp",       "Left Hand Number Up"                 },
-            {"HandLeftDown",     "Left Hand Number Down"               },
-            {"HandRightUp",      "Right Hand Number Up"                },
-            {"HandRightDown",    "Right Hand Number Down"              },
-            /// Accessory
-            {"MMDOn",            "MikuMiku Dance On during MMD"        },
-            {"MMDOff",           "MikuMiku Dance Off during MMD"       },
-            {"ChangeCostume",    "Change Costume"                      },
-            {"ChangeNaked",      "Change Naked Status"                 },
-            {"ChangeAccessory",  "Change Accessory Status"             },
-            {"SelectVoice",      "Voice Panel Shown"                   },
-            {"ChangeSiru",       "Change Fluid Status"                 },
-            {"ChangeTears",      "Change Tears Status"                 },
-            /// Some Dances            
-            {"PoleDance",        "Pole Dance"                          },
-            {"DefaultDance",     "Some Dances"                         },
-            {"NotShown",         "Not Show Game Panel"                 },
-            {"Stop",             "Stop All Motion"                     },
+| LookStraight    | look straight   | Eye & Neck straight                |  
+| LookAtMe        | look at me      | Eye & Neck to me                   |  
+| LookNeckAtMe    | look neck at me | Only Neck to me                    |  
+| LookAnime       | look anime      | Only Neck Anime                    |  
+| LookFix         | look fix        | Eye & Neck fix                     |  
+| LookNeckFix     | look neck fix   | Only Neck fix                      |  
+| LookEyeFix      | look eye fix    | Only Eye fix                       |  
+| LookAway        | look away       | Only Eye look away                 |  
+| LookManipulate  | look manipulate | Only Eye Manipulation              |  
+\< Face \>            
+| FaceNormal      | face normal     | Eye & Mouth default(0)             |  
+| EyeUp           | eye up          | Only Eye Number Up                 |  
+| EyeDown         | eye down        | Only Eye Number Down               |  
+| EyeOpen         | eye open        | Only Eye Opent                     |  
+| EyeClose        | eye close       | Only Eye Close                     |  
+| EyeHalf         | eye half        | Only Eye Half                      |  
+| MouthUp         | mouth up        | Mouth Number Up                    |  
+| MouthDown       | mouth down      | Mouth Number Down                  |  
+| MouthOpen       | mouth open      | Mouth Open                         |  
+| MouthClose      | mouth close     | Mouth Close                        |  
+| MouthHalf       | mouth half      | Mouth Half                         |  
+| Kiss            | kiss            | Eye & Mouth Kiss                   |  
+| Tongue          | tongue          | Eye & Mouth Tongue                 |  
+\< Hand \>            
+| HandNormal      | hand normal     | Both Hand default(0)               |  
+| HandBothUp      | hand both up    | Both Hand Number Up                |  
+| HandBothDown    | hand both down  | Both Hand Number Down              |  
+| HandLeftUp      | hand left up    | Left Hand Number Up                |  
+| HandLeftDown    | hand left down  | Left Hand Number Down              |  
+| HandRightUp     | hand right up   | Right Hand Number Up               |  
+| HandRightDown   | hand right down | Right Hand Number Down             |  
+\< Accessory \>
+| MMDOn           | mmd on          | MikuMiku Dance On during MMD       |  
+| MMDOff          | mmd off         | MikuMiku Dance Off during MMD      |  
+| ChangeCostume   | change costume  | Change Costume                     | 
+| ChangeNaked     | change naked    | Change Naked Status                |  
+| ChangeAccessory | change accessory| Change Accessory Status            |  
+| SelectVoice     | select voice    | Voice Panel Shown                  | 
+| ChangeSiru      | change fluid    | Change Fluid Status                |  
+| ChangeTears     | change tears    | Change Tears Status                |  
+\< Some Dances \>            
+| PoleDance       | pole dance      | Pole Dance                         |  
+| DefaultDance    | default dance   | Some Dances                        |  
+| NotShown        | deselect        | Not Show Game Panel                |  
+| Stop            | stop            | Stop All Motion                    |  
         
 
