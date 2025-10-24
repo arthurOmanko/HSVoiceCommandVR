@@ -46,6 +46,8 @@ Or remove some installed DLL in (${GameFolder}\Plugins\). Ones to remove are as 
 ## UI/UX abstract on HSVoiceCommandVR
 Tag      |  Move   | 
 ----     | ------  | 
+no hand needed
+<kbd>indicated voice (or voice pannel)</kbd> | apply indicated action for one possible human chara seen by you in current scene
 only one hand needed
 <kbd>menu + holding + indicated voice (or voice pannel)</kbd> | apply indicated action for all human charas in current scene
 
