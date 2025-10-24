@@ -62,7 +62,86 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 
 | Voice Command        | Pronunciations       | Explanation |
 | ----------- | ------------------- | -----|
-| Seated      | This mode lets you play the game with a mouse, keyboard, or gamepad.<br />The controls are essentially the same as in the main game. The screen is presented on a big monitor in front of you. |
-| Standing    | *Default mode.* As soon as tracked controllers are registered by the game, it switches into *standing mode*, also called *room scale mode*. In this mode, you can freely move around and use your Vive or Touch controllers to stuff. |
-
+/// Move ///
+|ComeOnWalk| come on walk |  Come walking up to me  |
+|ComeOnRun | come on run   |    Come running up to me|            
+|FrontOfMe| front of me|        Come in front of me       |
+|CloseToMe|  close to me      |Come just close to me     |
+|NextToMe|   next to me      |Come next to me           |
+|FollowMe|   follow me      |Follow me                 |
+/// Sex ///
+|ComeOnKiss| come on kiss |     Come and Kiss             |
+|SexNormal|  sex normal |      Come and Normal Sex       |
+|SexBack  |  sex back |      Come and Back Sex      |
+|OralSex   | oral sex |      Come and Oral Sex         |
+|Cowgirl    |  cowgirl |    Come and Cowgirl Sex      |
+|Handjob     |   ? |  Come and Handjob Sex      |
+|BreastSex    |  breast sex | Come and Breast Sex       |
+|Masturbation  |  masturbation | Masturbation              |
+|TwoMenSex     |  two men sex | Two Men Sex               |
+|TwoWomenSex     | two women sex | Two Women Sex             |
+|Shower           | shower | Shower                    |
+|Toilet           | toilet | Toilet                    |
+|VariousSex       | various sex | Various Sex               |
+|SpeedNormal      | speed normal | Animation Speed Normal    |
+|SpeedZero        | speed zero | Animation Speed Zero      |
+|SpeedMax         | speed max | Animation Speed Max       |
+|SpeedUp          | speed up | Animation Speed Up        |
+|SpeedDown        | speed down | Animation Speed Down      |
+|PatternNormal    | pattern normal | Animation Pattern Normal          |
+|PatternMinus     | pattern minus | Animation Pattern value Minus One   |
+|PatternPlus     | pattern plus | Animation Pattern value Plus One    |
+|PatternUp        | pattern up | Animation Pattern value Up          |
+|PatternDown      | pattern down | Animation Pattern value Down        |
+|CategoryUp       | category up |  Motion: Category Number Up          |
+|CategoryDown     | category down |Motion: Category Number Down        |
+|AnimationUp      | animation up | Motion: Animation Number Up         |
+|AnimationDown    | animation down |Motion: Animation Number Down       |
+/// Look ///
+            {"LookStraight",     "Eye & Neck straight"                 },
+            {"LookAtMe",         "Eye & Neck to me"                    },
+            {"LookNeckAtMe",     "Only Neck to me"                     },
+            {"LookAnime",        "Only Neck Anime"                     },
+            {"LookFix",          "Eye & Neck fix"                      },
+            {"LookNeckFix",      "Only Neck fix"                       },
+            {"LookEyeFix",       "Only Eye fix"                        },
+            {"LookAway",         "Only Eye look away"                  },
+            {"LookManipulate",   "Only Eye Manipulation"               },
+            /// Face            
+            {"FaceNormal",       "Eye & Mouth default(0)"              },
+            {"EyeUp",            "Only Eye Number Up"                  },
+            {"EyeDown",          "Only Eye Number Down"                },
+            {"EyeOpen",          "Only Eye Opent"                      },
+            {"EyeClose",         "Only Eye Close"                      },
+            {"EyeHalf",          "Only Eye Half"                       },
+            {"MouthUp",          "Mouth Number Up"                     },
+            {"MouthDown",        "Mouth Number Down"                   },
+            {"MouthOpen",        "Mouth Open"                          },
+            {"MouthClose",       "Mouth Close"                         },
+            {"MouthHalf",        "Mouth Half"                          },
+            {"Kiss",             "Eye & Mouth Kiss"                    },
+            {"Tongue",           "Eye & Mouth Tongue"                  },
+            /// Hand            
+            {"HandNormal",       "Both Hand default(0)"                },
+            {"HandBothUp",       "Both Hand Number Up"                 },
+            {"HandBothDown",     "Both Hand Number Down"               },
+            {"HandLeftUp",       "Left Hand Number Up"                 },
+            {"HandLeftDown",     "Left Hand Number Down"               },
+            {"HandRightUp",      "Right Hand Number Up"                },
+            {"HandRightDown",    "Right Hand Number Down"              },
+            /// Accessory
+            {"MMDOn",            "MikuMiku Dance On during MMD"        },
+            {"MMDOff",           "MikuMiku Dance Off during MMD"       },
+            {"ChangeCostume",    "Change Costume"                      },
+            {"ChangeNaked",      "Change Naked Status"                 },
+            {"ChangeAccessory",  "Change Accessory Status"             },
+            {"SelectVoice",      "Voice Panel Shown"                   },
+            {"ChangeSiru",       "Change Fluid Status"                 },
+            {"ChangeTears",      "Change Tears Status"                 },
+            /// Some Dances            
+            {"PoleDance",        "Pole Dance"                          },
+            {"DefaultDance",     "Some Dances"                         },
+            {"NotShown",         "Not Show Game Panel"                 },
+            {"Stop",             "Stop All Motion"                     },
+        
 
