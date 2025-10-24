@@ -62,14 +62,14 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 
 | Voice Command        | Pronunciations       | Explanation |
 | ----------- | ------------------- | -----|
-\< Move \>
+\< /// Move /// \>
 |ComeOnWalk| come on walk  | Come walking up to me  |
 |ComeOnRun | come on run   | Come running up to me  |            
 |FrontOfMe | front of me   | Come in front of me    |
 |CloseToMe | close to me   | Come just close to me  |
 |NextToMe  | next to me    | Come next to me        |
 |FollowMe  | follow me     | Follow me              |
-\< Sex \>
+\< /// Sex /// \>
 |ComeOnKiss| come on kiss |  Come and Kiss             |
 |SexNormal | sex normal   |  Come and Normal Sex       |
 |SexBack   | sex back     |  Come and Back Sex         |
@@ -97,7 +97,7 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 |CategoryDown     | category down  | Motion: Category Number Down        |
 |AnimationUp      | animation up   | Motion: Animation Number Up         |
 |AnimationDown    | animation down | Motion: Animation Number Down       |
-\< Look \>
+\< /// Look /// \>
 | LookStraight    | look straight   | Eye & Neck straight                |  
 | LookAtMe        | look at me      | Eye & Neck to me                   |  
 | LookNeckAtMe    | look neck at me | Only Neck to me                    |  
@@ -107,7 +107,7 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 | LookEyeFix      | look eye fix    | Only Eye fix                       |  
 | LookAway        | look away       | Only Eye look away                 |  
 | LookManipulate  | look manipulate | Only Eye Manipulation              |  
-\< Face \>            
+\< /// Face /// \>            
 | FaceNormal      | face normal     | Eye & Mouth default(0)             |  
 | EyeUp           | eye up          | Only Eye Number Up                 |  
 | EyeDown         | eye down        | Only Eye Number Down               |  
@@ -121,7 +121,7 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 | MouthHalf       | mouth half      | Mouth Half                         |  
 | Kiss            | kiss            | Eye & Mouth Kiss                   |  
 | Tongue          | tongue          | Eye & Mouth Tongue                 |  
-\< Hand \>            
+\< /// Hand /// \>            
 | HandNormal      | hand normal     | Both Hand default(0)               |  
 | HandBothUp      | hand both up    | Both Hand Number Up                |  
 | HandBothDown    | hand both down  | Both Hand Number Down              |  
@@ -129,7 +129,7 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 | HandLeftDown    | hand left down  | Left Hand Number Down              |  
 | HandRightUp     | hand right up   | Right Hand Number Up               |  
 | HandRightDown   | hand right down | Right Hand Number Down             |  
-\< Accessory \>
+\< /// Accessory /// \>
 | MMDOn           | mmd on          | MikuMiku Dance On during MMD       |  
 | MMDOff          | mmd off         | MikuMiku Dance Off during MMD      |  
 | ChangeCostume   | change costume  | Change Costume                     | 
@@ -138,7 +138,7 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 | SelectVoice     | select voice    | Voice Panel Shown                  | 
 | ChangeSiru      | change fluid    | Change Fluid Status                |  
 | ChangeTears     | change tears    | Change Tears Status                |  
-\< Some Dances \>            
+\< /// Some Dances /// \>            
 | PoleDance       | pole dance      | Pole Dance                         |  
 | DefaultDance    | default dance   | Some Dances                        |  
 | NotShown        | deselect        | Not Show Game Panel                |  
