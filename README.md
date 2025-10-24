@@ -129,9 +129,10 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 | HandLeftDown    | hand left down  | Left Hand Number Down              |  
 | HandRightUp     | hand right up   | Right Hand Number Up               |  
 | HandRightDown   | hand right down | Right Hand Number Down             |  
-\< /// Accessory /// \>
+\< /// MMD /// \>
 | MMDOn           | mmd on          | MikuMiku Dance On during MMD       |  
 | MMDOff          | mmd off         | MikuMiku Dance Off during MMD      |  
+\< /// Accessory /// \>
 | ChangeCostume   | change costume  | Change Costume                     | 
 | ChangeNaked     | change naked    | Change Naked Status                |  
 | ChangeAccessory | change accessory| Change Accessory Status            |  
@@ -141,6 +142,7 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 \< /// Some Dances /// \>            
 | PoleDance       | pole dance      | Pole Dance                         |  
 | DefaultDance    | default dance   | Some Dances                        |  
+\< /// End Tool /// \>     
 | NotShown        | deselect        | Not Show Game Panel                |  
 | Stop            | stop            | Stop All Motion                    |  
         
