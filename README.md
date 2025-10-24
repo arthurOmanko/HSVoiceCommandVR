@@ -62,6 +62,17 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 
 | Voice Command        | Pronunciations       | Explanation |
 | ----------- | ------------------- | -----|
+\< /// MainGame & Studio common commands /// \>
+| Impersonate    | impersonate    | Move and Impersonate seen chara                  |         
+| LoadSettings   | load settings  | Load current settings of vr_settings_for_IBL.xml |
+| ResetSettings  | reset settings | Set default values of vr_settings_for_IBL.xml    |
+| IncreaseScale  | increase scale | Increase IPD                                     |
+| DecreaseScale  | decrease scale | Decrease IPD                                     |
+| IBL            | ibl, test      | IBL GUI on/off                                   |
+| HSSSS          | hsss           | HSSSS config GUI on/off                          |
+| Debug          | debug          | Debug console GUI on/off                         |
+| VoicePanel     | voice panel    | This Voice Panel on/off                          |
+\< /// only Studio commands below /// \>
 \< /// Move /// \>
 |ComeOnWalk| come on walk  | Come walking up to me  |
 |ComeOnRun | come on run   | Come running up to me  |            
