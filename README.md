@@ -2,7 +2,7 @@
 
 
 This mod is for incorporating many Voice Commands in MainGame/StudioNEO (some functions are restricted in MainGame). 
-Many actions, face/hand/body expressions or operations get able to be invoked by real voices (or voice pannel on GUI).
+Many actions, face/hand/body expressions or operations get able to be invoked by real voices (or voice panel on GUI).
 
 
 ## [Installation]
@@ -16,7 +16,7 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - For installing Speech recognition Language Pack in Windows, please refer to   
 [Installing New Languages | Text or Speech to Text | Windows 11 https://www.youtube.com/watch?v=lKMFbOEcT-E]. 
 - Which Speech recognition Language Packs you have already installed or what you have set as \<Locale\> item are able to be checked via ${GameFolder}\UserData\dictionaries\Please_check_used_speech_recognition_engine.txt.
-- If you dont install Speech recognition Language Pack at all, you can use only voice pannel on GUI (not real voices).
+- If you dont install Speech recognition Language Pack at all, you can use only voice panel on GUI (not real voices).
 - Each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.) will be created automatically at first if not existing at all in ${GameFolder}\UserData\dictionaries\\. 
 - On each Language Pack dictionary (for example, en-US.txt, ja-JP.txt etc.), you can add/remove/change your favorite voice pronunciations as a row for each voice command.  
 ![Image](https://github.com/user-attachments/assets/911bbd4d-5fc9-44f8-ad6d-4075795bbc81)  
@@ -50,9 +50,9 @@ Or remove some installed DLL in (\\{GameFolder}\Plugins\). Ones to remove are as
 Tag      |  Move   | 
 ----     | ------  | 
 no hand needed
-<kbd>indicated voice (or voice pannel)</kbd> | apply indicated action for one possible human chara seen by you in current scene
+<kbd>indicated voice (or voice panel)</kbd> | apply indicated action for one possible human chara seen by you in current scene
 only one hand needed
-<kbd>menu + holding + indicated voice (or voice pannel)</kbd> | apply indicated action for all human charas in current scene
+<kbd>menu + holding + indicated voice (or voice panel)</kbd> | apply indicated action for all human charas in current scene
 
 
 
