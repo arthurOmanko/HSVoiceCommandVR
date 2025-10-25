@@ -84,7 +84,7 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 |CloseToMe | close to me   | Come just close to me  |
 |NextToMe  | next to me    | Come next to me        |
 |FollowMe  | follow me     | Follow me              |
-\< /// Sex ***(care about height-position of your headset in game)*** /// \>
+\< /// Sex /// \> ***(care about height-position of your headset in game)***
 |ComeOnKiss| come on kiss |  Come and Kiss             |
 |SexNormal | sex normal   |  Come and Normal Sex       |
 |SexBack   | sex back     |  Come and Back Sex         |
