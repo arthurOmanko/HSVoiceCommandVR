@@ -50,14 +50,14 @@ Or remove some installed DLL in (\\{GameFolder}\Plugins\). Ones to remove are as
 
 ## UI/UX abstract on HSVoiceCommandVR
 Tag      |  Move   | 
-----     | ------  | 
+ ---- | ------ | 
 no hand needed
-<kbd>indicated voice (or voice panel)</kbd> | apply indicated action for one possible human chara seen by you in current scene
+<kbd>indicated voice</kbd> | apply indicated action for one possible human chara seen by you in current scene
 only one hand needed
-<kbd>menu + holding + indicated voice (or voice panel)</kbd> | apply indicated action for all human charas in current scene
-<kbd>grip + moving</kbd> | move the space position of voice panel when laser visible for it
-<kbd>trigger</kbd> | select a voice command on voice panel when laser visible for it, or move vertical scroll bar of it with controller while trigger/holding the bar
-<kbd>trackpad + y-axis moving<\kbd> | move vertical scroll bar of voice panel when laser visible for it
+<kbd>menu</kbd>+<kbd>holding</kbd>+<kbd>indicated voice (or select one on voice panel)</kbd> | apply indicated action for all human charas in current scene
+<kbd>grip</kbd>+<kbd>moving</kbd> | move the space position of voice panel when laser visible for it
+<kbd>trigger</kbd> | select/invoke a voice command on voice panel when laser visible for it, or move vertical scroll bar of it with controller while trigger/holding the bar
+<kbd>trackpad</kbd>+<kbd>slide along y-axis</kbd> | move vertical scroll bar of voice panel when laser visible for it
 
 ***On Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.***     
 ***For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.***  
