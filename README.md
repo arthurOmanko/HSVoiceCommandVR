@@ -24,7 +24,7 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - Each voice pronunciation for each voice command in each Language Pack dictionary is distinguished by prefixes (or prefix word) from other voice pronunciations. Plese don't add/change voice pronunciation with same prefixs (or prefix word) as others.  
 For example, if you register "look" for one voice command and "look at me" for other voice command then you pronounce "look at me", both voice commands are invoked so this setting undesirable.  
 Or as another example, if you register "walk very near" for one voice command and "walk very far" for other voice command then you pronounce "walk very far", only voice command of "walk very far" is invoked so this OK.
-- On Sex Motions by voice command, appropriate sex motion (random) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.  
+- On Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.  
 For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.  
 
 ## [Requirements]
@@ -56,7 +56,7 @@ no hand needed
 only one hand needed
 <kbd>menu + holding + indicated voice (or voice panel)</kbd> | apply indicated action for all human charas in current scene
 
-***On Sex Motions by voice command, appropriate sex motion (random) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.***     
+***On Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.***     
 ***For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.***  
 
 
