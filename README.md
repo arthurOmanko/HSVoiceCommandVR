@@ -55,6 +55,9 @@ no hand needed
 <kbd>indicated voice (or voice panel)</kbd> | apply indicated action for one possible human chara seen by you in current scene
 only one hand needed
 <kbd>menu + holding + indicated voice (or voice panel)</kbd> | apply indicated action for all human charas in current scene
+<kbd>grip + move</kbd> | move position of voice panel when laser visible for it
+<kbd>trigger</kbd> | select a voice command on voice panel when laser visible for it, or move vertical scroll of it with controller while holding trigger
+<kbd>trackpad + y-axis move<\kbd> | move vertical scroll of voice panel when laser visible for it
 
 ***On Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.***     
 ***For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.***  
