@@ -49,8 +49,10 @@ Or remove some installed DLL in (\\{GameFolder}\Plugins\). Ones to remove are as
 
 
 ## UI/UX abstract on HSVoiceCommandVR
-![Image](https://github.com/user-attachments/assets/65dc7b7e-834d-491a-a22f-d87f2d0d97ca)
-![Image](https://github.com/user-attachments/assets/30a769f0-ad60-42b8-bc0c-6f36b202ab37)  
+- Voice Panel GUI/Voice Panel  
+![Image](https://github.com/user-attachments/assets/65dc7b7e-834d-491a-a22f-d87f2d0d97ca)  
+![Image](https://github.com/user-attachments/assets/be28cd34-2f31-4717-ad84-3b16ca56fbd4)
+
 Tag      |  Move   | 
  ---- | ------ | 
 no hand needed
