@@ -55,7 +55,7 @@ no hand needed
 <kbd>indicated voice (or voice panel)</kbd> | apply indicated action for one possible human chara seen by you in current scene
 only one hand needed
 <kbd>menu + holding + indicated voice (or voice panel)</kbd> | apply indicated action for all human charas in current scene
-<kbd>grip + move</kbd> | move position of voice panel when laser visible for it
+<kbd>grip + move</kbd> | move the space position of voice panel when laser visible for it
 <kbd>trigger</kbd> | select a voice command on voice panel when laser visible for it, or move vertical scroll bar of it with controller while trigger/holding the bar
 <kbd>trackpad + y-axis move<\kbd> | move vertical scroll bar of voice panel when laser visible for it
 
