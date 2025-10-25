@@ -56,9 +56,9 @@ Or remove some installed DLL in (\\{GameFolder}\Plugins\). Ones to remove are as
 Tag      |  Move   | 
  ---- | ------ | 
 no hand needed
-<kbd>indicated voice</kbd> | apply indicated action for one possible human chara seen by you in current scene
+<kbd>indicated voice</kbd> | execute voice command indicated by voice. If it is for human, invoke indicated action for one possible human chara seen by you in current scene
 only one hand needed
-<kbd>menu</kbd>+<kbd>holding</kbd>+<kbd>indicated voice (or invoke one on voice panel)</kbd> | apply indicated action for all human charas in current scene
+<kbd>menu</kbd>+<kbd>holding</kbd>+<kbd>indicated voice (or invoke one on voice panel)</kbd> | if voice command indicated by voice is for human, invoke indicated action for all human charas in current scene
 <kbd>grip</kbd>+<kbd>moving</kbd> | move the space position of voice panel when laser visible for it
 <kbd>trigger</kbd> | select/invoke a voice command on voice panel when laser visible for it, move vertical scroll bar of it or move it with controller while trigger/holding the bar
 <kbd>trackpad</kbd>+<kbd>slide along y-axis</kbd> | move vertical scroll bar of voice panel when laser visible for it
