@@ -24,8 +24,10 @@ Many actions, face/hand/body expressions or operations get able to be invoked by
 - Each voice pronunciation for each voice command in each Language Pack dictionary is distinguished by prefixes (or prefix word) from other voice pronunciations. Plese don't add/change voice pronunciation with same prefixs (or prefix word) as others.  
 For example, if you register "look" for one voice command and "look at me" for other voice command then you pronounce "look at me", both voice commands are invoked so this setting undesirable.  
 Or as another example, if you register "walk very near" for one voice command and "walk very far" for other voice command then you pronounce "walk very far", only voice command of "walk very far" is invoked so this OK.
+- Many different motions are randomly invoked within motions indicated by command name.
 - On Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.  
-For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.  
+For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.
+- The setting only by Voice Command ChangeSiru (change fluid) is not saved when saving scene, which is just bug. This will be bug fixed on next updating.  
 
 ## [Requirements]
 - Game updated with the last patch and DLC installed
@@ -63,7 +65,8 @@ only one hand needed
 <kbd>trigger</kbd> | select/invoke a voice command on voice panel when laser visible for it, move vertical scroll bar of it or move it with controller while trigger/holding the bar
 <kbd>trackpad</kbd>+<kbd>slide along y-axis</kbd> | move vertical scroll bar of voice panel when laser visible for it
 
-***On Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.***     
+***Many different motions are randomly invoked within motions indicated by command name.***  
+***Especially on Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.***     
 ***For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.***  
 
 
