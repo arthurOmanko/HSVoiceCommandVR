@@ -28,7 +28,7 @@ Or as another example, if you register "walk very near" for one voice command an
 - On Sex Motions by voice command, appropriate sex motion (randomly) is invoked by where the height-position of your headset in game is against the height-position of chara's hip.  
 For example, height-position of your headset in game is about at height-position of chara's face, hip or foot, by respective situation, invoked sex motion would be different.
 - Please don't use special keys such as "ScrollKey" for HSSSS or IBL shortcut to invoke them by this mod. (normal keys, F1-12, ctrl, shift and alt are mainly supported, which please check by yourself.)  
-- The setting only by Voice Command ChangeSiru (change fluid) is not saved when saving scene, which is just bug. This will be bug fixed on next updating.  
+- The chara's fluid settings changed just by Voice Command ChangeSiru (change fluid) is not saved when saving scene (is saved from panel selecting not voice command), which is just bug of HSVoiceCommandVR mod. This will be bug fixed on next updating.  
 
 ## [Requirements]
 - Game updated with the last patch and DLC installed
