@@ -156,14 +156,14 @@ Speech Recognition engine distinguishes each pronunciation by prefixes (or prefi
 | HandRightUp     | hand right up   | Right Hand Number Up               |  
 | HandRightDown   | hand right down | Right Hand Number Down             |  
 \< /// MMD /// \>
-| MMDOn           | mmd on          | MikuMiku Dance On during MMD       |  
-| MMDOff          | mmd off         | MikuMiku Dance Off during MMD      |  
+| MMDOn           | mmd on          | MikuMiku Dance On during MMD of VNGE  |  
+| MMDOff          | mmd off         | MikuMiku Dance Off during MMD of VNGE |  
 \< /// Accessory /// \>
 | ChangeCostume   | change costume  | Change Costume                     | 
 | ChangeNaked     | change naked    | Change Naked Status                |  
 | ChangeAccessory | change accessory| Change Accessory Status            |  
 | SelectVoice     | select voice    | Voice Panel Shown                  | 
-| ChangeSiru      | change fluid    | Change Fluid Status                |  
+| ChangeSiru      | change fluid    | Change Fluid Status (# having scene saving bug as of now) |  
 | ChangeTears     | change tears    | Change Tears Status                |  
 \< /// Some Dances /// \>            
 | PoleDance       | pole dance      | Pole Dance                         |  
